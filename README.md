@@ -37,56 +37,9 @@ This is my third project at DecodeLabs. It recommends job roles based on your te
 | scikit-learn | TF-IDF and Cosine Similarity |
 | numpy | calculations |
 #output:
+<img width="1344" height="714" alt="image" src="https://github.com/user-attachments/assets/b41ab8e3-bd7a-495b-b2a8-f1c82b342c69" />
+<img width="1337" height="715" alt="image" src="https://github.com/user-attachments/assets/11278a4a-11f4-4583-a95f-39148898d928" />
 
-=======================================================
-    TECH STACK RECOMMENDER  |  DecodeLabs AI
-=======================================================
-  Apni skills enter karo (minimum 3 required)
-  Example: Python, Machine Learning, SQL
--------------------------------------------------------
-    Skill 1: ml
-    Skill 2: python
-    Skill 3: java
-
-   3 skills added. Add more? (Enter skill or press Enter to skip)
-  ➤  Skill 4 (optional): math
-  ➤  Skill 5 (optional): c++
-  ➤  Skill 6 (optional): 
-
-    Processing 5 skills...
-   Building TF-IDF vectors...
-   Calculating Cosine Similarity...
-
-=======================================================
-     TOP JOB RECOMMENDATIONS FOR YOU
-=======================================================
-  Your Skills: Ml, Python, Java, Math, C++
--------------------------------------------------------
-
-    #1  BEST MATCH
-  Role         : Backend Developer
-  Match Score  : 24.1 / 100
-       You have : Java, Python
-       Learn   : Postgresql, Apis, Databases
-
-    #2  SECOND MATCH
-  Role         : ML Engineer
-  Match Score  : 6.5 / 100
-       You have : Python
-       Learn   : Model Deployment, Algorithms, Tensorflow
-
-    #3  THIRD MATCH
-  Role         : Data Analyst
-  Match Score  : 6.4 / 100
-       You have : Python
-       Learn   : Power Bi, Excel, Statistics
-
-=======================================================
-
-   Want to try different skills? (y/n): no
-
-  Thanks for using Tech Stack Recommender!
-  Built for DecodeLabs AI Project 3
 
 ## Author
 Alina Zubair - AI Intern at DecodeLabs
